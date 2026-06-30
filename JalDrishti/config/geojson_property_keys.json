@@ -1,0 +1,7 @@
+{
+  "district_name_key": "NAME_2",
+  "state_name_key": "NAME_1",
+  "district_code_key": "ID_2",
+  "all_property_keys": ["ID_0", "ISO", "NAME_0", "ID_1", "NAME_1", "ID_2", "NAME_2", "NL_NAME_2", "VARNAME_2", "TYPE_2", "ENGTYPE_2"],
+  "notes": "NAME_2=district name, NAME_1=state name, ID_2=district numeric ID. Primary source: geohacker/india on GitHub."
+}

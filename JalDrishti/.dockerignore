@@ -1,0 +1,47 @@
+# ── .dockerignore ────────────────────────────────────────────────────────────
+# Keeps the Docker image lean by excluding files not needed at runtime.
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Large raw data (regenerated inside container if needed)
+data/raw/
+data/temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.tmp
+
+# Docs (not needed at runtime)
+CHANGELOG.md
+CONTRIBUTING.md
+FINAL_REPORT.md
+QUICKSTART.md

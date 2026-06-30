@@ -1,0 +1,18 @@
+{
+  "district_name_key": "NAME_0",
+  "state_name_key": null,
+  "district_code_key": null,
+  "all_property_keys": [
+    "ID_0",
+    "ISO",
+    "NAME_0",
+    "ID_1",
+    "NAME_1",
+    "ID_2",
+    "NAME_2",
+    "NL_NAME_2",
+    "VARNAME_2",
+    "TYPE_2",
+    "ENGTYPE_2"
+  ]
+}

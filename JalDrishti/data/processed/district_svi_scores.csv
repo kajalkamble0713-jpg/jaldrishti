@@ -1,0 +1,595 @@
+district_code,district_name,state_name,svi_score
+000001,Andaman Islands,Andaman and Nicobar,0.6931
+000002,Nicobar Islands,Andaman and Nicobar,0.8093
+000003,Adilabad,Andhra Pradesh,0.3675
+000004,Anantapur,Andhra Pradesh,0.3684
+000005,Chittoor,Andhra Pradesh,0.5049
+000006,Cuddapah,Andhra Pradesh,0.46
+000007,East Godavari,Andhra Pradesh,0.4971
+000008,Guntur,Andhra Pradesh,0.4207
+000009,Hyderabad,Andhra Pradesh,0.4158
+000010,Karimnagar,Andhra Pradesh,0.5288
+000011,Khammam,Andhra Pradesh,0.5301
+000012,Krishna,Andhra Pradesh,0.6175
+000013,Kurnool,Andhra Pradesh,0.7469
+000014,Mahbubnagar,Andhra Pradesh,0.4709
+000015,Medak,Andhra Pradesh,0.5681
+000016,Nalgonda,Andhra Pradesh,0.328
+000017,Nellore,Andhra Pradesh,0.4773
+000018,Nizamabad,Andhra Pradesh,0.5602
+000019,Prakasam,Andhra Pradesh,0.7662
+000020,Rangareddi,Andhra Pradesh,0.6146
+000021,Srikakulam,Andhra Pradesh,0.413
+000022,Vishakhapatnam,Andhra Pradesh,0.6089
+000023,Vizianagaram,Andhra Pradesh,0.6012
+000024,Warangal,Andhra Pradesh,0.6137
+000025,West Godavari,Andhra Pradesh,0.4597
+000026,Changlang,Arunachal Pradesh,0.6975
+000027,East Kameng,Arunachal Pradesh,0.5241
+000028,East Siang,Arunachal Pradesh,0.681
+000029,Kurung Kumey,Arunachal Pradesh,0.4188
+000030,Lohit,Arunachal Pradesh,0.6724
+000031,Lower Dibang Valley,Arunachal Pradesh,0.3022
+000032,Lower Subansiri,Arunachal Pradesh,0.2504
+000033,Papum Pare,Arunachal Pradesh,0.4018
+000034,Tawang,Arunachal Pradesh,0.471
+000035,Tirap,Arunachal Pradesh,0.2971
+000036,Upper Dibang Valley,Arunachal Pradesh,0.5612
+000037,Upper Siang,Arunachal Pradesh,0.5787
+000038,Upper Subansiri,Arunachal Pradesh,0.7001
+000039,West Kameng,Arunachal Pradesh,0.437
+000040,West Siang,Arunachal Pradesh,0.5202
+000041,Barpeta,Assam,0.7129
+000042,Bongaigaon,Assam,0.698
+000043,Cachar,Assam,0.771
+000044,Darrang,Assam,0.7198
+000045,Dhemaji,Assam,0.5686
+000046,Dhuburi,Assam,0.7512
+000047,Dibrugarh,Assam,0.6491
+000048,Goalpara,Assam,0.6793
+000049,Golaghat,Assam,0.8676
+000050,Hailakandi,Assam,0.8034
+000051,Jorhat,Assam,0.7351
+000052,Kamrup,Assam,0.6718
+000053,Karbi Anglong,Assam,0.5742
+000054,Karimganj,Assam,0.6155
+000055,Kokrajhar,Assam,0.8074
+000056,Lakhimpur,Assam,0.4429
+000057,Marigaon,Assam,0.8075
+000058,Nagaon,Assam,0.4948
+000059,Nalbari,Assam,0.6818
+000060,North Cachar Hills,Assam,0.7989
+000061,Sibsagar,Assam,0.678
+000062,Sonitpur,Assam,0.4916
+000063,Tinsukia,Assam,0.8609
+000064,Araria,Bihar,0.7482
+000065,Aurangabad,Bihar,0.7191
+000066,Banka,Bihar,0.5719
+000067,Begusarai,Bihar,0.5534
+000068,Bhabua,Bihar,0.7251
+000069,Bhagalpur,Bihar,0.5122
+000070,Bhojpur,Bihar,0.4966
+000071,Buxar,Bihar,0.6795
+000072,Darbhanga,Bihar,0.7476
+000073,Gaya,Bihar,0.6158
+000074,Gopalganj,Bihar,0.4926
+000075,Jamui,Bihar,0.5101
+000076,Jehanabad,Bihar,0.688
+000077,Katihar,Bihar,0.5719
+000078,Khagaria,Bihar,0.8298
+000079,Kishanganj,Bihar,0.8535
+000080,Lakhisarai,Bihar,0.5148
+000081,Madhepura,Bihar,0.6
+000082,Madhubani,Bihar,0.8227
+000083,Munger,Bihar,0.553
+000084,Muzaffarpur,Bihar,0.6509
+000085,Nalanda,Bihar,0.5685
+000086,Nawada,Bihar,0.7069
+000087,Pashchim Champaran,Bihar,0.8526
+000088,Patna,Bihar,0.6602
+000089,Purba Champaran,Bihar,0.7358
+000090,Purnia,Bihar,0.6576
+000091,Rohtas,Bihar,0.6514
+000092,Saharsa,Bihar,0.6286
+000093,Samastipur,Bihar,0.7196
+000094,Saran,Bihar,0.6919
+000095,Sheikhpura,Bihar,0.5796
+000096,Sheohar,Bihar,0.5283
+000097,Sitamarhi,Bihar,0.6602
+000098,Siwan,Bihar,0.759
+000099,Supaul,Bihar,0.95
+000100,Vaishali,Bihar,0.6253
+000101,Chandigarh,Chandigarh,0.4816
+000102,Bastar,Chhattisgarh,0.6655
+000103,Bilaspur,Chhattisgarh,0.6345
+000104,Dantewada,Chhattisgarh,0.5104
+000105,Dhamtari,Chhattisgarh,0.7321
+000106,Durg,Chhattisgarh,0.7342
+000107,Janjgir-Champa,Chhattisgarh,0.5062
+000108,Jashpur,Chhattisgarh,0.6606
+000109,Kanker,Chhattisgarh,0.6538
+000110,Kawardha,Chhattisgarh,0.7248
+000111,Korba,Chhattisgarh,0.6872
+000112,Koriya,Chhattisgarh,0.5872
+000113,Mahasamund,Chhattisgarh,0.7575
+000114,Raigarh,Chhattisgarh,0.7548
+000115,Raipur,Chhattisgarh,0.4838
+000116,Raj Nandgaon,Chhattisgarh,0.4805
+000117,Surguja,Chhattisgarh,0.6754
+000118,Dadra and Nagar Haveli,Dadra and Nagar Haveli,0.4409
+000119,Daman,Daman and Diu,0.6556
+000120,Junagadh,Daman and Diu,0.5241
+000121,Delhi,Delhi,0.6841
+000122,North Goa,Goa,0.2787
+000123,South Goa,Goa,0.2678
+000124,Ahmadabad,Gujarat,0.4913
+000125,Amreli,Gujarat,0.6631
+000126,Anand,Gujarat,0.572
+000127,Banas Kantha,Gujarat,0.6764
+000128,Bharuch,Gujarat,0.4058
+000129,Bhavnagar,Gujarat,0.3779
+000130,Dahod,Gujarat,0.4522
+000131,Gandhinagar,Gujarat,0.5746
+000132,Jamnagar,Gujarat,0.6367
+000133,Junagadh,Gujarat,0.5215
+000134,Kachchh,Gujarat,0.4189
+000135,Kheda,Gujarat,0.3543
+000136,Mahesana,Gujarat,0.3854
+000137,Narmada,Gujarat,0.6071
+000138,Navsari,Gujarat,0.3914
+000139,Panch Mahals,Gujarat,0.4158
+000140,Patan,Gujarat,0.4345
+000141,Porbandar,Gujarat,0.5739
+000142,Rajkot,Gujarat,0.3486
+000143,Sabar Kantha,Gujarat,0.4304
+000144,Surat,Gujarat,0.3351
+000145,Surendranagar,Gujarat,0.5175
+000146,The Dangs,Gujarat,0.4276
+000147,Vadodara,Gujarat,0.4559
+000148,Valsad,Gujarat,0.4601
+000149,Ambala,Haryana,0.4496
+000150,Bhiwani,Haryana,0.4581
+000151,Faridabad,Haryana,0.5577
+000152,Fatehabad,Haryana,0.3419
+000153,Gurgaon,Haryana,0.6278
+000154,Hisar,Haryana,0.5108
+000155,Jhajjar,Haryana,0.5607
+000156,Jind,Haryana,0.3925
+000157,Kaithal,Haryana,0.4233
+000158,Karnal,Haryana,0.5663
+000159,Kurukshetra,Haryana,0.4419
+000160,Mahendragarh,Haryana,0.3528
+000161,Panchkula,Haryana,0.7957
+000162,Panipat,Haryana,0.281
+000163,Rewari,Haryana,0.5123
+000164,Rohtak,Haryana,0.5692
+000165,Sirsa,Haryana,0.5878
+000166,Sonepat,Haryana,0.38
+000167,Yamuna Nagar,Haryana,0.7069
+000168,Bilaspur,Himachal Pradesh,0.2303
+000169,Chamba,Himachal Pradesh,0.2366
+000170,Hamirpur,Himachal Pradesh,0.2868
+000171,Kangra,Himachal Pradesh,0.4925
+000172,Kinnaur,Himachal Pradesh,0.5656
+000173,Kullu,Himachal Pradesh,0.3248
+000174,Lahul and Spiti,Himachal Pradesh,0.4538
+000175,Mandi,Himachal Pradesh,0.3277
+000176,Shimla,Himachal Pradesh,0.2322
+000177,Sirmaur,Himachal Pradesh,0.5209
+000178,Solan,Himachal Pradesh,0.1685
+000179,Una,Himachal Pradesh,0.4161
+000180,Anantnag (Kashmir South),Jammu and Kashmir,0.583
+000181,Bagdam,Jammu and Kashmir,0.5306
+000182,Baramula (Kashmir North),Jammu and Kashmir,0.5227
+000183,Doda,Jammu and Kashmir,0.5613
+000184,Jammu,Jammu and Kashmir,0.3604
+000185,Kargil,Jammu and Kashmir,0.3941
+000186,Kathua,Jammu and Kashmir,0.4035
+000187,Kupwara (Muzaffarabad),Jammu and Kashmir,0.5973
+000188,Ladakh (Leh),Jammu and Kashmir,0.3673
+000189,Pulwama,Jammu and Kashmir,0.5887
+000190,Punch,Jammu and Kashmir,0.5055
+000191,Rajauri,Jammu and Kashmir,0.5976
+000192,Srinagar,Jammu and Kashmir,0.6708
+000193,Udhampur,Jammu and Kashmir,0.4375
+000194,Bokaro,Jharkhand,0.7289
+000195,Chatra,Jharkhand,0.8024
+000196,Deoghar,Jharkhand,0.8242
+000197,Dhanbad,Jharkhand,0.6215
+000198,Dumka,Jharkhand,0.5038
+000199,Garhwa,Jharkhand,0.6673
+000200,Giridih,Jharkhand,0.6639
+000201,Godda,Jharkhand,0.6049
+000202,Gumla,Jharkhand,0.6965
+000203,Hazaribag,Jharkhand,0.5799
+000204,Jamtara,Jharkhand,0.5678
+000205,Koderma,Jharkhand,0.5552
+000206,Latehar,Jharkhand,0.3798
+000207,Lohardaga,Jharkhand,0.4871
+000208,Pakur,Jharkhand,0.7278
+000209,Palamu,Jharkhand,0.6832
+000210,Pashchim Singhbhum,Jharkhand,0.6873
+000211,Purba Singhbhum,Jharkhand,0.7294
+000212,Ranchi,Jharkhand,0.5781
+000213,Sahibganj,Jharkhand,0.8359
+000214,Saraikela Kharsawan,Jharkhand,0.5387
+000215,Simdega,Jharkhand,0.5038
+000216,Bagalkot,Karnataka,0.4699
+000217,Bangalore Rural,Karnataka,0.4716
+000218,Bangalore Urban,Karnataka,0.5999
+000219,Belgaum,Karnataka,0.52
+000220,Bellary,Karnataka,0.6377
+000221,Bidar,Karnataka,0.5382
+000222,Bijapur,Karnataka,0.3312
+000223,Chamrajnagar,Karnataka,0.5032
+000224,Chikmagalur,Karnataka,0.5331
+000225,Chitradurga,Karnataka,0.5259
+000226,Dakshin Kannad,Karnataka,0.5061
+000227,Davanagere,Karnataka,0.5238
+000228,Dharwad,Karnataka,0.4738
+000229,Gadag,Karnataka,0.3965
+000230,Gulbarga,Karnataka,0.5094
+000231,Hassan,Karnataka,0.5006
+000232,Haveri,Karnataka,0.3769
+000233,Kodagu,Karnataka,0.5518
+000234,Kolar,Karnataka,0.468
+000235,Koppal,Karnataka,0.3201
+000236,Mandya,Karnataka,0.583
+000237,Mysore,Karnataka,0.301
+000238,Raichur,Karnataka,0.2486
+000239,Shimoga,Karnataka,0.5375
+000240,Tumkur,Karnataka,0.4459
+000241,Udupi,Karnataka,0.4675
+000242,Uttar Kannand,Karnataka,0.57
+000243,Alappuzha,Kerala,0.4512
+000244,Ernakulam,Kerala,0.338
+000245,Idukki,Kerala,0.2894
+000246,Kannur,Kerala,0.3284
+000247,Kasaragod,Kerala,0.2148
+000248,Kollam,Kerala,0.5793
+000249,Kottayam,Kerala,0.3774
+000250,Kozhikode,Kerala,0.34
+000251,Malappuram,Kerala,0.6127
+000252,Palakkad,Kerala,0.1554
+000253,Pattanamtitta,Kerala,0.4321
+000254,Thiruvananthapuram,Kerala,0.2859
+000255,Thrissur,Kerala,0.4723
+000256,Wayanad,Kerala,0.2541
+000257,Kavaratti,Lakshadweep,0.6121
+000258,Anuppur,Madhya Pradesh,0.6194
+000259,Ashoknagar,Madhya Pradesh,0.651
+000260,Balaghat,Madhya Pradesh,0.6924
+000261,Barwani,Madhya Pradesh,0.5876
+000262,Betul,Madhya Pradesh,0.4889
+000263,Bhind,Madhya Pradesh,0.6265
+000264,Bhopal,Madhya Pradesh,0.4436
+000265,Burhanpur,Madhya Pradesh,0.5881
+000266,Chhatarpur,Madhya Pradesh,0.6831
+000267,Chhindwara,Madhya Pradesh,0.5754
+000268,Damoh,Madhya Pradesh,0.6587
+000269,Datia,Madhya Pradesh,0.552
+000270,Dewas,Madhya Pradesh,0.4434
+000271,Dhar,Madhya Pradesh,0.5382
+000272,Dindori,Madhya Pradesh,0.5005
+000273,East Nimar,Madhya Pradesh,0.787
+000274,Guna,Madhya Pradesh,0.6449
+000275,Gwalior,Madhya Pradesh,0.464
+000276,Harda,Madhya Pradesh,0.5433
+000277,Hoshangabad,Madhya Pradesh,0.5265
+000278,Indore,Madhya Pradesh,0.5022
+000279,Jabalpur,Madhya Pradesh,0.5465
+000280,Jhabua,Madhya Pradesh,0.5658
+000281,Katni,Madhya Pradesh,0.7158
+000282,Mandla,Madhya Pradesh,0.7287
+000283,Mandsaur,Madhya Pradesh,0.6033
+000284,Morena,Madhya Pradesh,0.6473
+000285,Narsinghpur,Madhya Pradesh,0.8443
+000286,Neemuch,Madhya Pradesh,0.7905
+000287,Panna,Madhya Pradesh,0.6141
+000288,Raisen,Madhya Pradesh,0.4621
+000289,Rajgarh,Madhya Pradesh,0.7065
+000290,Ratlam,Madhya Pradesh,0.4756
+000291,Rewa,Madhya Pradesh,0.7878
+000292,Sagar,Madhya Pradesh,0.6007
+000293,Satna,Madhya Pradesh,0.7279
+000294,Sehore,Madhya Pradesh,0.4994
+000295,Seoni,Madhya Pradesh,0.7066
+000296,Shahdol,Madhya Pradesh,0.5305
+000297,Shajapur,Madhya Pradesh,0.5846
+000298,Sheopur,Madhya Pradesh,0.7921
+000299,Shivpuri,Madhya Pradesh,0.7343
+000300,Sidhi,Madhya Pradesh,0.7564
+000301,Tikamgarh,Madhya Pradesh,0.6255
+000302,Ujjain,Madhya Pradesh,0.4874
+000303,Umaria,Madhya Pradesh,0.5954
+000304,Vidisha,Madhya Pradesh,0.6474
+000305,West Nimar,Madhya Pradesh,0.459
+000306,Ahmednagar,Maharashtra,0.6135
+000307,Akola,Maharashtra,0.4971
+000308,Amravati,Maharashtra,0.4618
+000309,Aurangabad,Maharashtra,0.6058
+000310,Bhandara,Maharashtra,0.5566
+000311,Bid,Maharashtra,0.4849
+000312,Buldana,Maharashtra,0.4377
+000313,Chandrapur,Maharashtra,0.6835
+000314,Dhule,Maharashtra,0.4538
+000315,Garhchiroli,Maharashtra,0.344
+000316,Gondiya,Maharashtra,0.5823
+000317,Greater Bombay,Maharashtra,0.4574
+000318,Hingoli,Maharashtra,0.3631
+000319,Jalgaon,Maharashtra,0.4459
+000320,Jalna,Maharashtra,0.5846
+000321,Kolhapur,Maharashtra,0.6788
+000322,Latur,Maharashtra,0.4049
+000323,Nagpur,Maharashtra,0.4722
+000324,Nanded,Maharashtra,0.5914
+000325,Nandurbar,Maharashtra,0.4775
+000326,Nashik,Maharashtra,0.3765
+000327,Osmanabad,Maharashtra,0.5269
+000328,Parbhani,Maharashtra,0.5965
+000329,Pune,Maharashtra,0.6152
+000330,Raigarh,Maharashtra,0.3565
+000331,Ratnagiri,Maharashtra,0.3831
+000332,Sangli,Maharashtra,0.7557
+000333,Satara,Maharashtra,0.7136
+000334,Sindhudurg,Maharashtra,0.3734
+000335,Solapur,Maharashtra,0.4921
+000336,Thane,Maharashtra,0.512
+000337,Wardha,Maharashtra,0.4131
+000338,Washim,Maharashtra,0.6511
+000339,Yavatmal,Maharashtra,0.4351
+000340,Bishnupur,Manipur,0.601
+000341,Chandel,Manipur,0.6079
+000342,Churachandpur,Manipur,0.4797
+000343,East Imphal,Manipur,0.4302
+000344,Senapati,Manipur,0.6091
+000345,Tamenglong,Manipur,0.4102
+000346,Thoubal,Manipur,0.3854
+000347,Ukhrul,Manipur,0.759
+000348,West Imphal,Manipur,0.4332
+000349,East Garo Hills,Meghalaya,0.4385
+000350,East Khasi Hills,Meghalaya,0.4013
+000351,Jaintia Hills,Meghalaya,0.4075
+000352,Ri-Bhoi,Meghalaya,0.5646
+000353,South Garo Hills,Meghalaya,0.5412
+000354,West Garo Hills,Meghalaya,0.5095
+000355,West Khasi Hills,Meghalaya,0.5359
+000356,Aizawl,Mizoram,0.6129
+000357,Champhai,Mizoram,0.5909
+000358,Kolasib,Mizoram,0.3732
+000359,Lawngtlai,Mizoram,0.6551
+000360,Lunglei,Mizoram,0.3852
+000361,Mamit,Mizoram,0.5124
+000362,Saiha,Mizoram,0.3569
+000363,Serchhip,Mizoram,0.3627
+000364,Dimapur,Nagaland,0.3873
+000365,Kohima,Nagaland,0.4008
+000366,Mokokchung,Nagaland,0.4147
+000367,Mon,Nagaland,0.5215
+000368,Phek,Nagaland,0.5204
+000369,Tuensang,Nagaland,0.6425
+000370,Wokha,Nagaland,0.6444
+000371,Zunheboto,Nagaland,0.3674
+000372,Angul,Orissa,0.6182
+000373,Baleshwar,Orissa,0.5137
+000374,Baragarh,Orissa,0.334
+000375,Bhadrak,Orissa,0.7289
+000376,Bolangir,Orissa,0.5074
+000377,Boudh,Orissa,0.3969
+000378,Cuttack,Orissa,0.466
+000379,Deogarh,Orissa,0.4144
+000380,Dhenkanal,Orissa,0.4218
+000381,Gajapati,Orissa,0.6117
+000382,Ganjam,Orissa,0.4209
+000383,Jagatsinghpur,Orissa,0.3799
+000384,Jajpur,Orissa,0.3861
+000385,Jharsuguda,Orissa,0.5933
+000386,Kalahandi,Orissa,0.3767
+000387,Kandhamal,Orissa,0.5541
+000388,Kendrapara,Orissa,0.3279
+000389,Keonjhar,Orissa,0.5802
+000390,Khordha,Orissa,0.7177
+000391,Koraput,Orissa,0.5121
+000392,Malkangiri,Orissa,0.6596
+000393,Mayurbhanj,Orissa,0.4233
+000394,Nabarangpur,Orissa,0.3461
+000395,Nayagarh,Orissa,0.5395
+000396,Nuapada,Orissa,0.594
+000397,Puri,Orissa,0.3347
+000398,Rayagada,Orissa,0.4121
+000399,Sambalpur,Orissa,0.5114
+000400,Sonepur,Orissa,0.5302
+000401,Sundargarh,Orissa,0.493
+000402,Karaikal,Puducherry,0.5274
+000403,Mahe,Puducherry,0.5466
+000404,Puducherry,Puducherry,0.3716
+000405,Yanam,Puducherry,0.4412
+000406,Amritsar,Punjab,0.2851
+000407,Bathinda,Punjab,0.2929
+000408,Faridkot,Punjab,0.2274
+000409,Fatehgarh Sahib,Punjab,0.2428
+000410,Firozpur,Punjab,0.2803
+000411,Gurdaspur,Punjab,0.2105
+000412,Hoshiarpur,Punjab,0.3494
+000413,Jalandhar,Punjab,0.4494
+000414,Kapurthala,Punjab,0.371
+000415,Ludhiana,Punjab,0.5244
+000416,Mansa,Punjab,0.3258
+000417,Moga,Punjab,0.2345
+000418,Muktsar,Punjab,0.3343
+000419,Nawan Shehar,Punjab,0.258
+000420,Patiala,Punjab,0.3764
+000421,Rupnagar,Punjab,0.1771
+000422,Sangrur,Punjab,0.5462
+000423,Ajmer,Rajasthan,0.8062
+000424,Alwar,Rajasthan,0.5719
+000425,Banswara,Rajasthan,0.6804
+000426,Baran,Rajasthan,0.6344
+000427,Barmer,Rajasthan,0.7734
+000428,Bharatpur,Rajasthan,0.8767
+000429,Bhilwara,Rajasthan,0.6992
+000430,Bikaner,Rajasthan,0.7644
+000431,Bundi,Rajasthan,0.7447
+000432,Chittaurgarh,Rajasthan,0.6218
+000433,Churu,Rajasthan,0.5258
+000434,Dausa,Rajasthan,0.7202
+000435,Dhaulpur,Rajasthan,0.6688
+000436,Dungarpur,Rajasthan,0.7656
+000437,Ganganagar,Rajasthan,0.7241
+000438,Hanumangarh,Rajasthan,0.5496
+000439,Jaipur,Rajasthan,0.6525
+000440,Jaisalmer,Rajasthan,0.5778
+000441,Jalor,Rajasthan,0.7185
+000442,Jhalawar,Rajasthan,0.5696
+000443,Jhunjhunun,Rajasthan,0.851
+000444,Jodhpur,Rajasthan,0.7506
+000445,Karauli,Rajasthan,0.6294
+000446,Kota,Rajasthan,0.751
+000447,Nagaur,Rajasthan,0.5095
+000448,Pali,Rajasthan,0.6211
+000449,Rajsamand,Rajasthan,0.4681
+000450,Sawai Madhopur,Rajasthan,0.5539
+000451,Sikar,Rajasthan,0.5295
+000452,Sirohi,Rajasthan,0.6375
+000453,Tonk,Rajasthan,0.8414
+000454,Udaipur,Rajasthan,0.8434
+000455,East,Sikkim,0.496
+000456,North Sikkim,Sikkim,0.2558
+000457,South Sikkim,Sikkim,0.5284
+000458,West Sikkim,Sikkim,0.5216
+000459,Ariyalur,Tamil Nadu,0.485
+000460,Chennai,Tamil Nadu,0.4876
+000461,Coimbatore,Tamil Nadu,0.2295
+000462,Cuddalore,Tamil Nadu,0.15
+000463,Dharmapuri,Tamil Nadu,0.2855
+000464,Dindigul,Tamil Nadu,0.4393
+000465,Erode,Tamil Nadu,0.4422
+000466,Kancheepuram,Tamil Nadu,0.3347
+000467,Kanniyakumari,Tamil Nadu,0.2448
+000468,Karur,Tamil Nadu,0.4787
+000469,Madurai,Tamil Nadu,0.1705
+000470,Nagapattinam,Tamil Nadu,0.2698
+000471,Namakkal,Tamil Nadu,0.15
+000472,Nilgiris,Tamil Nadu,0.2689
+000473,Perambalur,Tamil Nadu,0.3881
+000474,Pudukkottai,Tamil Nadu,0.3808
+000475,Ramanathapuram,Tamil Nadu,0.15
+000476,Salem,Tamil Nadu,0.3143
+000477,Sivaganga,Tamil Nadu,0.3412
+000478,Thanjavur,Tamil Nadu,0.2126
+000479,Theni,Tamil Nadu,0.4418
+000480,Thiruvallur,Tamil Nadu,0.3151
+000481,Thiruvarur,Tamil Nadu,0.3025
+000482,Thoothukudi,Tamil Nadu,0.2872
+000483,Tiruchchirappalli,Tamil Nadu,0.2463
+000484,Tirunelveli Kattabo,Tamil Nadu,0.2752
+000485,Tiruvannamalai,Tamil Nadu,0.3448
+000486,Vellore,Tamil Nadu,0.656
+000487,Villupuram,Tamil Nadu,0.5346
+000488,Virudhunagar,Tamil Nadu,0.4412
+000489,Dhalai,Tripura,0.3448
+000490,North Tripura,Tripura,0.5673
+000491,South Tripura,Tripura,0.3972
+000492,West Tripura,Tripura,0.4685
+000493,Agra,Uttar Pradesh,0.5915
+000494,Aligarh,Uttar Pradesh,0.7786
+000495,Allahabad,Uttar Pradesh,0.6657
+000496,Ambedkar Nagar,Uttar Pradesh,0.8474
+000497,Auraiya,Uttar Pradesh,0.7253
+000498,Azamgarh,Uttar Pradesh,0.7238
+000499,Badaun,Uttar Pradesh,0.7393
+000500,Baghpat,Uttar Pradesh,0.8555
+000501,Bahraich,Uttar Pradesh,0.9316
+000502,Ballia,Uttar Pradesh,0.5859
+000503,Balrampur,Uttar Pradesh,0.7916
+000504,Banda,Uttar Pradesh,0.5525
+000505,Bara Banki,Uttar Pradesh,0.8793
+000506,Bareilly,Uttar Pradesh,0.6568
+000507,Basti,Uttar Pradesh,0.8313
+000508,Bijnor,Uttar Pradesh,0.8466
+000509,Bulandshahr,Uttar Pradesh,0.5914
+000510,Chandauli,Uttar Pradesh,0.5611
+000511,Chitrakoot,Uttar Pradesh,0.6296
+000512,Deoria,Uttar Pradesh,0.5992
+000513,Etah,Uttar Pradesh,0.7597
+000514,Etawah,Uttar Pradesh,0.5644
+000515,Faizabad,Uttar Pradesh,0.5315
+000516,Farrukhabad,Uttar Pradesh,0.7104
+000517,Fatehpur,Uttar Pradesh,0.7607
+000518,Firozabad,Uttar Pradesh,0.5433
+000519,Gautam Buddha Nagar,Uttar Pradesh,0.7308
+000520,Ghaziabad,Uttar Pradesh,0.7836
+000521,Ghazipur,Uttar Pradesh,0.5436
+000522,Gonda,Uttar Pradesh,0.6813
+000523,Gorakhpur,Uttar Pradesh,0.4557
+000524,Hamirpur,Uttar Pradesh,0.5794
+000525,Hardoi,Uttar Pradesh,0.7144
+000526,Hathras,Uttar Pradesh,0.6418
+000527,Jalaun,Uttar Pradesh,0.6987
+000528,Jaunpur,Uttar Pradesh,0.8295
+000529,Jhansi,Uttar Pradesh,0.724
+000530,Jyotiba Phule Nagar,Uttar Pradesh,0.4482
+000531,Kannauj,Uttar Pradesh,0.6185
+000532,Kanpur Dehat,Uttar Pradesh,0.4841
+000533,Kanpur,Uttar Pradesh,0.8661
+000534,Kaushambi,Uttar Pradesh,0.356
+000535,Kushinagar,Uttar Pradesh,0.7152
+000536,Lakhimpur Kheri,Uttar Pradesh,0.7022
+000537,Lalitpur,Uttar Pradesh,0.5113
+000538,Lucknow,Uttar Pradesh,0.5476
+000539,Maharajganj,Uttar Pradesh,0.686
+000540,Mahoba,Uttar Pradesh,0.6404
+000541,Mainpuri,Uttar Pradesh,0.5366
+000542,Mathura,Uttar Pradesh,0.7754
+000543,Mau,Uttar Pradesh,0.7235
+000544,Meerut,Uttar Pradesh,0.4514
+000545,Mirzapur,Uttar Pradesh,0.7912
+000546,Moradabad,Uttar Pradesh,0.3959
+000547,Muzaffarnagar,Uttar Pradesh,0.5123
+000548,Pilibhit,Uttar Pradesh,0.6943
+000549,Pratapgarh,Uttar Pradesh,0.7179
+000550,Rae Bareli,Uttar Pradesh,0.6483
+000551,Rampur,Uttar Pradesh,0.6613
+000552,Saharanpur,Uttar Pradesh,0.5606
+000553,Sant Kabir Nagar,Uttar Pradesh,0.6335
+000554,Sant Ravi Das Nagar,Uttar Pradesh,0.6379
+000555,Shahjahanpur,Uttar Pradesh,0.792
+000556,Shravasti,Uttar Pradesh,0.6515
+000557,Siddharth Nagar,Uttar Pradesh,0.694
+000558,Sitapur,Uttar Pradesh,0.5553
+000559,Sonbhadra,Uttar Pradesh,0.7893
+000560,Sultanpur,Uttar Pradesh,0.7627
+000561,Unnao,Uttar Pradesh,0.8196
+000562,Varanasi,Uttar Pradesh,0.5448
+000563,Almora,Uttaranchal,0.2792
+000564,Bageshwar,Uttaranchal,0.5743
+000565,Chamoli,Uttaranchal,0.5369
+000566,Champawat,Uttaranchal,0.5538
+000567,Dehra Dun,Uttaranchal,0.4904
+000568,Haridwar,Uttaranchal,0.3795
+000569,Naini Tal,Uttaranchal,0.6296
+000570,Pauri Garhwal,Uttaranchal,0.4829
+000571,Pithoragarh,Uttaranchal,0.5713
+000572,Rudra Prayag,Uttaranchal,0.4521
+000573,Tehri Garhwal,Uttaranchal,0.4018
+000574,Udham Singh Nagar,Uttaranchal,0.4766
+000575,Uttarkashi,Uttaranchal,0.4556
+000576,Bankura,West Bengal,0.604
+000577,Barddhaman,West Bengal,0.7752
+000578,Birbhum,West Bengal,0.4972
+000579,Dakshin Dinajpur,West Bengal,0.6588
+000580,Darjiling,West Bengal,0.4558
+000581,East Midnapore,West Bengal,0.6995
+000582,Haora,West Bengal,0.7088
+000583,Hugli,West Bengal,0.7489
+000584,Jalpaiguri,West Bengal,0.5753
+000585,Kochbihar,West Bengal,0.5758
+000586,Kolkata,West Bengal,0.6189
+000587,Maldah,West Bengal,0.783
+000588,Murshidabad,West Bengal,0.6054
+000589,Nadia,West Bengal,0.6641
+000590,North 24 Parganas,West Bengal,0.5762
+000591,Puruliya,West Bengal,0.8608
+000592,South 24 Parganas,West Bengal,0.5023
+000593,Uttar Dinajpur,West Bengal,0.5804
+000594,West Midnapore,West Bengal,0.7147

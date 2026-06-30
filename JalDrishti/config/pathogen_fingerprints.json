@@ -1,0 +1,68 @@
+{
+  "ADD": {
+    "name": "Acute Diarrhoeal Disease",
+    "color": "#FF8C00",
+    "fingerprint": {
+      "turbidity": {
+        "threshold": 0.15,
+        "direction": "above",
+        "weight": 0.40
+      },
+      "ndwi": {
+        "threshold": 0.10,
+        "direction": "above",
+        "weight": 0.35
+      },
+      "awei": {
+        "threshold": 0.05,
+        "direction": "above",
+        "weight": 0.25
+      }
+    },
+    "description": "Elevated turbidity indicates faecal contamination. NDWI and AWEI indicate flood extent causing contamination spread."
+  },
+  "Cholera": {
+    "name": "Cholera",
+    "color": "#00D4FF",
+    "fingerprint": {
+      "ndci": {
+        "threshold": 0.08,
+        "direction": "above",
+        "weight": 0.35
+      },
+      "cdom": {
+        "threshold": 0.75,
+        "direction": "above",
+        "weight": 0.35
+      },
+      "lst_celsius": {
+        "threshold": 25.0,
+        "direction": "above",
+        "weight": 0.30
+      }
+    },
+    "description": "NDCI indicates algal blooms where Vibrio cholerae thrives. CDOM provides organic matter as Vibrio growth medium. LST >25°C accelerates Vibrio proliferation."
+  },
+  "Typhoid": {
+    "name": "Typhoid / Enteric Fever",
+    "color": "#00FF88",
+    "fingerprint": {
+      "turbidity": {
+        "threshold": 0.12,
+        "direction": "above",
+        "weight": 0.40
+      },
+      "ndwi": {
+        "threshold": 0.08,
+        "direction": "above",
+        "weight": 0.35
+      },
+      "awei": {
+        "threshold": 0.02,
+        "direction": "above",
+        "weight": 0.25
+      }
+    },
+    "description": "Salmonella typhi survives in turbid water with faecal contamination. NDWI/AWEI indicate waterlogged areas spreading contamination."
+  }
+}
