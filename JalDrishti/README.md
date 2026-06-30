@@ -1,6 +1,13 @@
-# JalDrishti Lite
+# JalDrishti — Waterborne Disease Early Warning System
 **Satellite-Based Early Warning System for Waterborne Disease Outbreaks in India**
-Final Year B.E. Computer Engineering Major Project — Alva's Institute of Engineering & Technology
+
+Final Year B.E. Computer Engineering Major Project
+**Alva's Institute of Engineering & Technology, Moodbidri**
+Guide: Dr. Chandra Naik | Department of CSE | 2025–2026
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -16,9 +23,9 @@ based on satellite-observed water quality conditions that precede outbreaks.
 ## Quick Start
 
 ```bash
-# 1. Clone and navigate
-git clone <your-repo-url>
-cd jaldrishti
+# 1. Clone the repository
+git clone https://github.com/kajalkamble0713-jpg/jaldrishti.git
+cd jaldrishti/JalDrishti
 
 # 2. Create and activate virtual environment
 python -m venv venv
@@ -97,18 +104,21 @@ Full 80-district JalDrishti pipeline achieves ROC-AUC 0.84/0.82/0.81 (see resear
 ## Deployment (Streamlit Community Cloud)
 
 ```bash
-# Push to GitHub first
+# 1. Push to GitHub
 git add .
-git commit -m "JalDrishti Lite — Phase 2 complete"
-git remote add origin <your-github-repo-url>
+git commit -m "Update"
 git push -u origin main
 ```
 
 Then:
-1. Go to https://share.streamlit.io
-2. Sign in with GitHub
-3. Click "New app" → select your repo → set **Main file path** to `dashboard/app.py`
-4. Click **Deploy**
+1. Go to **https://share.streamlit.io**
+2. Sign in with GitHub (`kajalkamble0713-jpg`)
+3. Click **New app**
+4. Fill in:
+   - Repository: `kajalkamble0713-jpg/jaldrishti`
+   - Branch: `main`
+   - Main file path: `JalDrishti/dashboard/app.py`
+5. Click **Deploy**
 
 ---
 
