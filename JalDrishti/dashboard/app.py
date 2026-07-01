@@ -208,8 +208,9 @@ elif page == "🗺️ Risk Map":
             })
         risk_df = pd.DataFrame(risk_rows)
 
-        # Merge with centroids
-        plot_df = risk_df.merge(centroids, on="district_name", how="left").dropna(subset=["lat","lon"])
+        # Merge with centroids — drop duplicate state_name from centroids to avoid _x/_y suffix
+        centroids_slim = centroids[["district_name","lat","lon"]].copy()
+        plot_df = risk_df.merge(centroids_slim, on="district_name", how="left").dropna(subset=["lat","lon"])
 
         # Build folium map
         m = folium.Map(location=[20.5, 78.9], zoom_start=5, tiles="CartoDB positron")
@@ -226,7 +227,7 @@ elif page == "🗺️ Risk Map":
                 color=color, fill=True, fill_color=color, fill_opacity=0.7,
                 popup=folium.Popup(
                     f"<b>{row['district_name']}</b><br>"
-                    f"State: {row['state_name']}<br>"
+                    f"State: {row.get('state_name', row.get('state_name_x', row.get('state_name_y', '—')))}<br>"
                     f"Risk: {risk_val:.2%} ({level})<br>"
                     f"Period: {int(row['year'])}-{int(row['month']):02d}",
                     max_width=200
